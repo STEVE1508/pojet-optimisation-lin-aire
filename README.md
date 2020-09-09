@@ -1,1 +1,2 @@
-# pojet-optimisation-lin-aire
+Ce projet consiste à modéliser le modèle de production d'une usine de carburants. Ceux-ci sont produits en combinant un certain nombre de composants chimiques et vendus à un certain prix le baril.
+Après la modélisation, on appliquera des méthodes mathématiques d'optimisation, dont notamment la méthode du simplex,implémentées sur python, sous les contraintes du marché pour offrir à l'usine une solution optimale de production.
